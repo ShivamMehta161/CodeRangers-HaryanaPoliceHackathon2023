@@ -28,6 +28,22 @@ The crux of the problem lies in the widespread hesitancy, especially among the y
 ## Proposed Solution 
 In our commitment to combat drug abuse, we present a comprehensive solution through both a **user-friendly website** and **an innovative app**, aimed at empowering communities and bolstering law enforcement efforts.
 
+### Overview of Website functionality
+
+The website made for common poeple. The website acts as a guardian of anonymity, enabling concerned citizens to discreetly report drug-related incidents without fear. Tailored for those witnessing or experiencing issues, it ensures a secure environment for reporting and accessing essential support. This platform fosters community-driven solutions, empowering users to play a pivotal role in combating drug abuse.
+
+### Overview of APP functionality
+
+
+The app caters to law enforcement and narcotics control officials, serving as a dynamic tool for real-time data analysis and spontaneous alerts on reported drug abuse activities. It transforms raw data into actionable insights, enhancing decision-making. The app's users gain comprehensive dashboards, ensuring effective response strategies against drug abuse.
+
+
+
+
+
+
+
+
 
 
 
