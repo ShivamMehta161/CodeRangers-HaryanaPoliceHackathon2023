@@ -37,8 +37,9 @@ The website made for common poeple. The website acts as a guardian of anonymity,
 
 The app caters to law enforcement and narcotics control officials, serving as a dynamic tool for real-time data analysis and spontaneous alerts on reported drug abuse activities. It transforms raw data into actionable insights, enhancing decision-making. The app's users gain comprehensive dashboards, ensuring effective response strategies against drug abuse.
 
+## Features
 
-
+![WhatsApp Image 2024-01-04 at 20 11 39_78a2c312](https://github.com/ShivamMehta161/CodeRangers-HaryanaPoliceHackathon2023/assets/116088341/967d6b54-dbf4-430d-88af-f0ce25ac283e)
 
 
 
