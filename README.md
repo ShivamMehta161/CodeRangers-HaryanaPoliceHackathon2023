@@ -30,6 +30,12 @@ The crux of the problem lies in the widespread hesitancy, especially among the y
 
 
 
+## Youtube Video Link
+
+
+Youtube video link for our idea explanation is as follows :
+https://youtu.be/X39dglL5Pnc?si=CjG3HBOGatcKl_YJ
+
 
 ### Positive Impact and SDG
 - **Increased safety and well-being** : Anonymous reporting encourages youth to speak up about drug abuse in their communities, leading to quicker intervention and improved safety.
