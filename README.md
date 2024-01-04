@@ -1,4 +1,4 @@
-# StopDrug : Connecting Youth Voices to Proactive Response
+![image](https://github.com/ShivamMehta161/CodeRangers-HaryanaPoliceHackathon2023/assets/116088341/a47833b5-a0c3-475d-8b03-bc9167278092)# StopDrug : Connecting Youth Voices to Proactive Response
 ![2023-12-09T06_58_30 173Z-banner](https://github.com/ShivamMehta161/CodeRangers-HaryanaPoliceHackathon2023/assets/116088341/876f759f-8f4a-4eaf-827c-1becd951677b)
 
 ## Team: Code Rangers
@@ -26,6 +26,7 @@ The crux of the problem lies in the widespread hesitancy, especially among the y
 ![drug](https://github.com/ShivamMehta161/CodeRangers-HaryanaPoliceHackathon2023/assets/116088341/cf577d9d-b8d4-49fc-bf64-d538926c2cd7)
                                          
 ## Proposed Solution 
+In our commitment to combat drug abuse, we present a comprehensive solution through both a **user-friendly website** and **an innovative app**, aimed at empowering communities and bolstering law enforcement efforts.
 
 
 
@@ -34,11 +35,12 @@ The crux of the problem lies in the widespread hesitancy, especially among the y
 ## Youtube Video Link
 
 
-Youtube video link for our idea explanation is as follows :
+Video link for idea explanation is as follows :
 https://youtu.be/X39dglL5Pnc?si=CjG3HBOGatcKl_YJ
 
 
-### Positive Impact and SDG
+
+## Positive Impact and SDG
 - **Increased safety and well-being** : Anonymous reporting encourages youth to speak up about drug abuse in their communities, leading to quicker intervention and improved safety.
 - **Reduced risk of addiction**: AI-powered assessments and personalized resources empower youth to identify vulnerabilities and proactively address potential substance abuse issues.
 - **Boosted confidence and agency**: The platform enables youth to become active participants in combating drug abuse, fostering responsibility and a sense of community.
